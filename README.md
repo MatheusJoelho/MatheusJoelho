@@ -1,7 +1,5 @@
 ### Olá👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusJoelho&theme=aura_dark=true)
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
