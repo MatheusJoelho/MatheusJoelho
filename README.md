@@ -1,13 +1,16 @@
 ### Olá👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusJoelho&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusJoelho&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusJoelho&show_icons=true&theme=radical)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusJoelho&repo=github-readme-stats" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusJoelho&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="[https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=MatheusJoelho&show_icons=true&theme=radical)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusJoelho&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
