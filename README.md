@@ -1,6 +1,5 @@
 ### Olá👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusJoelho)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusJoelho&show_icons=true&theme=radical)
 
 - 🔭 I’m currently working on ...
